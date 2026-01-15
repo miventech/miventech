@@ -43,6 +43,9 @@ Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innova
 
 ### 🏆 **Proyectos Destacados**
 
-[Vectorial - Simulador de Cargas Electricas](https://github.com/miventech/Vectorial-Simulador-de-Cargas-Electricas) Proyecto Educativo
-[ICube](https://github.com/miventech/ICUBE-GAME-LUDWIG-JAM)  Juego para una GameJam
-[Detective96](https://github.com/miventech/Detective-96-Unity-Game-2D) Juego De GameJam
+- [Vectorial - Simulador de Cargas Electricas](https://github.com/miventech/Vectorial-Simulador-de-Cargas-Electricas) Proyecto Educativo
+
+- [ICube](https://github.com/miventech/ICUBE-GAME-LUDWIG-JAM)  Juego para una GameJam
+
+- [Detective96](https://github.com/miventech/Detective-96-Unity-Game-2D) Juego De GameJam
+
