@@ -34,11 +34,15 @@ Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innova
 ---
 
 ### 📫 **Contacto:**
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jose-jaspe-miventech/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-jaspe-miventech/)
+- 📽️ [Miventech](https://www.youtube.com/@MiVenTech) [TikTok](https://www.tiktok.com/@miventech)
+- 🎮 [Itchio](https://miventech.itch.io/)
 - 📧 Email: 
 ---
 
 
 ### 🏆 **Proyectos Destacados**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miventech&repo=[tu-repo-destacado]&theme=radical)](https://github.com/miventech/[tu-repo-destacado])
+[Vectorial - Simulador de Cargas Electricas](https://github.com/miventech/Vectorial-Simulador-de-Cargas-Electricas) Proyecto Educativo
+[ICube](https://github.com/miventech/ICUBE-GAME-LUDWIG-JAM)  Juego para una GameJam
+[Detective96](https://github.com/miventech/Detective-96-Unity-Game-2D) Juego De GameJam
