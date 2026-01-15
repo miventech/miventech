@@ -38,13 +38,6 @@ Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innova
 - 📧 Email: 
 ---
 
-### 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api? username=miventech&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miventech&layout=compact&theme=radical)
-
----
 
 ### 🏆 **Proyectos Destacados**
 
