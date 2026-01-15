@@ -39,7 +39,7 @@ Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innova
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-jaspe-miventech/)
 - 📽️ [Miventech](https://www.youtube.com/@MiVenTech) [TikTok](https://www.tiktok.com/@miventech)
 - 🎮 [Itchio](https://miventech.itch.io/)
-- 📧 Email: 
+- 📧 Email: [Disponible bajo solicitud]
 ---
 
 
@@ -51,3 +51,17 @@ Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innova
 
 - [Detective96](https://github.com/miventech/Detective-96-Unity-Game-2D) Juego De GameJam
 
+
+### 📊 **GitHub Stats**
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miventech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miventech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/?user=miventech&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
