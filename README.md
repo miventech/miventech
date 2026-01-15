@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hola, soy Miventech
 
-<!--
-**miventech/miventech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desarrollador de Software | Especialista en Unity & VR/XR
 
-Here are some ideas to get you started:
+Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innovadoras utilizando tecnologías de realidad extendida (XR).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 **Tech Stack**
+
+**Game Development & XR:**
+- 🎮 Unity3D | C# | OpenXR
+- 🥽 VR/AR Development
+- 🎯 Game Development
+
+**Full-Stack Development:**
+- ⚙️ .NET | Node.js
+- 🌐 HTML5 | JavaScript | PHP
+- 🐍 Python
+
+---
+
+### 🔭 **Actualmente trabajando en:**
+- El el desarrollo de un software GIS Multiplataforma (VR, WIN)  online donde puede visualizar modelos CAD creado por Revit,AutoCAD, tambien tienen un sistema que soporta programacion con nodos para generar simulaciones en tus modelos CAD geo-referenciados. 
+
+### 🌱 **Aprendiendo:**
+- Estoy aprendiendo a realizar modding a juegos. y aprendiendo a realizar sistemas rpocedurales de crecimientos de plantas.
+
+### 💼 **Busco colaborar en:**
+- Proyectos de VR/AR
+- Desarrollo de videojuegos con Unity
+- Desarrollo de software de simualcion en Unity.
+
+---
+
+### 📫 **Contacto:**
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jose-jaspe-miventech/)
+- 📧 Email: 
+---
+
+### 📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api? username=miventech&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miventech&layout=compact&theme=radical)
+
+---
+
+### 🏆 **Proyectos Destacados**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miventech&repo=[tu-repo-destacado]&theme=radical)](https://github.com/miventech/[tu-repo-destacado])
