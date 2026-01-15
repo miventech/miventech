@@ -24,7 +24,9 @@ Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innova
 - 🗺️ Desarrollo de un software GIS multiplataforma (VR/Windows) online para visualización de modelos CAD de Revit y AutoCAD, con sistema de programación visual basado en nodos
 
 ### 🌱 **Aprendiendo:**
-- Estoy aprendiendo a realizar modding a juegos. y aprendiendo a realizar sistemas procedurales de crecimiento de plantas.
+- 🎮 Game modding y modificación de mecánicas
+- 🌱 Sistemas procedurales de crecimiento de plantas
+- 🔧 Generación procedural de contenido (PCG)
 
 ### 💼 **Busco colaborar en:**
 - Proyectos de VR/AR
