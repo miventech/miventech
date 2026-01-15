@@ -22,9 +22,9 @@ Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innova
 **Especialidades:**
 
 ![VR](https://img.shields.io/badge/Virtual%20Reality-FF6384?style=for-the-badge&logo=oculus&logoColor=white)
-![AR](https://img.shields.io/badge/Augmented%20Reality-36BCF7?style=for-the-badge)
+![AR](https://img.shields.io/badge/Augmented%20Reality-3776AB?style=for-the-badge)
 ![OpenXR](https://img.shields.io/badge/OpenXR-5C2D91?style=for-the-badge)
-![Game Dev](https://img.shields.io/badge/Game%20Development-00D9FF?style=for-the-badge&logo=unity&logoColor=white)
+![Game Dev](https://img.shields.io/badge/Game%20Development-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
