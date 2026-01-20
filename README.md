@@ -1,12 +1,12 @@
-# 👋 Hola, soy Miventech
+# Hola, soy Miventech
 
-## 🚀 Desarrollador de Software | Especialista en Unity & VR/XR
+## Desarrollador de Software | Especialista en Unity & VR/XR
 
 Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innovadoras utilizando tecnologías de realidad extendida (XR).
 
 ---
 
-### 🛠️ **Skills & Tools**
+### **Skills & Tools**
 
 <div align="center">
 
@@ -28,15 +28,15 @@ Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innova
 
 </div>
 
-### 🔭 **Actualmente trabajando en:**
-- 🗺️ Desarrollo de un software GIS multiplataforma (VR/Windows) online para visualización de modelos CAD de Revit y AutoCAD, con sistema de programación visual basado en nodos
+### **Actualmente trabajando en:**
+-  Desarrollo de un software GIS multiplataforma (VR/Windows) online para visualización de modelos CAD de Revit y AutoCAD, con sistema de programación visual basado en nodos
 
-### 🌱 **Aprendiendo:**
-- 🎮 Game modding y modificación de mecánicas
-- 🌱 Sistemas procedurales de crecimiento de plantas
-- 🔧 Generación procedural de contenido (PCG)
+### **Aprendiendo:**
+-  Game modding y modificación de mecánicas
+-  Sistemas procedurales de crecimiento de plantas
+-  Generación procedural de contenido (PCG)
 
-### 💼 **Busco colaborar en:**
+###  **Busco colaborar en:**
 - Proyectos de VR/AR
 - Desarrollo de videojuegos con Unity
 - Desarrollo de software de simualcion en Unity.
@@ -44,14 +44,14 @@ Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innova
 ---
 
 ### 📫 **Contacto:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/jose-jaspe-miventech/)
-- 📽️ [Miventech](https://www.youtube.com/@MiVenTech) [TikTok](https://www.tiktok.com/@miventech)
-- 🎮 [Itchio](https://miventech.itch.io/)
-- 📧 Email: [Disponible bajo solicitud]
+-  [LinkedIn](https://www.linkedin.com/in/jose-jaspe-miventech/)
+-  [Miventech](https://www.youtube.com/@MiVenTech) [TikTok](https://www.tiktok.com/@miventech)
+-  [Itchio](https://miventech.itch.io/)
+-  Email: [Disponible bajo solicitud]
 ---
 
 
-### 🏆 **Proyectos Destacados**
+###  **Proyectos Destacados**
 
 - [Vectorial - Simulador de Cargas Electricas](https://github.com/miventech/Vectorial-Simulador-de-Cargas-Electricas) Proyecto Educativo
 
@@ -61,6 +61,6 @@ Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innova
 
 
 **Más proyectos:**
-- 🎮 [Ver todos mis juegos en Itch.io](https://miventech.itch.io/)
-- 📺 [Tutoriales y demos en YouTube](https://www.youtube.com/@MiVenTech)
+-  [Ver todos mis juegos en Itch.io](https://miventech.itch.io/)
+-  [Tutoriales y demos en YouTube](https://www.youtube.com/@MiVenTech)
 
