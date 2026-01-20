@@ -43,7 +43,7 @@ Desarrollador apasionado por crear experiencias inmersivas y aplicaciones innova
 
 ---
 
-### 📫 **Contacto:**
+### **Contacto:**
 -  [LinkedIn](https://www.linkedin.com/in/jose-jaspe-miventech/)
 -  [Miventech](https://www.youtube.com/@MiVenTech) [TikTok](https://www.tiktok.com/@miventech)
 -  [Itchio](https://miventech.itch.io/)
